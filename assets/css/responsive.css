@@ -1,0 +1,103 @@
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-brand{
+    margin-left: 18px;
+  }
+  .navbar-nav {
+    margin-left: 18px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 13px;
+  }
+  
+  .bg-cover {
+    height: 480px;
+  }
+  .bg-text h3 {
+    padding-top: 80px;
+    font-size: 30px;
+  }
+  .bg-text p {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 15px;
+  }
+  .contact {
+    margin-right: 320px;
+    padding: 10px 4px;
+  }
+  .contact a {
+    font-size: 16px;
+  }
+  .scroll {
+    margin-top: 400px;
+    margin-left: -120px;
+  }
+  #about h3 {
+    font-size: 35px;
+  }
+  .sub-text {
+    font-size: 15px;
+    margin: 20px 90px;
+  }
+  .about-text p {
+    font-size: 15px;
+  }
+
+  .service-text h3 {
+    font-size: 20px;
+  }
+  .service-text p {
+    font-size: 15px;
+  }
+  .service-icon {
+    margin-left: -10px;
+  }
+  .service-icon i {
+    margin-top: 80px;
+    font-size: 32px;
+  }
+  .service-des h3,
+  .service-des p {
+    margin: 10px;
+  }
+  .service-des p {
+    font-size: 15px;
+  }
+  .service-button {
+    margin-right: 217px;
+    margin-left: 9px;
+    margin-top: 30px;
+  }
+   
+  .service-heading p{
+    font-size: 15px;
+     margin-right: -39px;
+  }
+  .card{
+    margin-bottom: 15px;
+  }
+  .temp-text h2 {
+  font-size: 25px; 
+  margin-bottom: 20px;
+}
+.temp-text p {
+  font-size: 15px;
+}
+.bx-wrapper {
+  padding: 40px 0;
+}
+.bx-viewport {
+  margin-top: -15px;
+}
+.slider-div h3{
+font-size: 25px;
+}
+.slider-div p {
+   font-size: 15px;
+}
+.download{
+   margin-right: 217px;
+    margin-left: 0px;
+    margin-top: 30px;
+}
+}
